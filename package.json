@@ -1,0 +1,23 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Primer proyecto con node.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkblaze30/proyecto-node-1.git"
+  },
+  "author": "Darkblaze30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darkblaze30/proyecto-node-1/issues"
+  },
+  "homepage": "https://github.com/Darkblaze30/proyecto-node-1#readme",
+  "devDependencies": {
+    "mongodb": "6.16.0"
+  }
+}
